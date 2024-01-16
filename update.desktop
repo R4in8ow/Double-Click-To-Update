@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Author=R4in8ow
+Type=Application
+Terminal=true
+Exec=sudo apt update && sudo apt upgrade -y
+Name=Update System
+Comment=Update/Upgrade 
+Icon=/home/r4in8ow/Pictures/update.png
